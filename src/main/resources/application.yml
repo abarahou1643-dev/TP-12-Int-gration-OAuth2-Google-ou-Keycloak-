@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  thymeleaf:
+    cache: false
+
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 
+            client-secret: 
+            scope:
+              - openid
+              - profile
+              - email
+        provider:
+          google:
+            issuer-uri: https://accounts.google.com
