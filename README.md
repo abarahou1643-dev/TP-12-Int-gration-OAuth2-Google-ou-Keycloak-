@@ -1,12 +1,6 @@
 
-
-```markdown
 # TP OAuth2 - Application Spring Boot avec Authentification Google
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.0-brightgreen)
-![Java](https://img.shields.io/badge/Java-17-orange)
-![OAuth2](https://img.shields.io/badge/OAuth2-Google-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ##  Description
 
@@ -239,6 +233,7 @@ https://github.com/user-attachments/assets/d32d5f71-da25-4bcb-a05e-2cdc0b92f96c
 ##  Auteurs
 
 - **AICHA BARAHOU** 
+
 
 
 
